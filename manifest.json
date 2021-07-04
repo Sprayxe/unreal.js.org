@@ -1,0 +1,25 @@
+{
+  "name": "Unreal.js Docs",
+  "short_name": "u.js Docs",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#090a16",
+  "lang": "en",
+  "scope": "/",
+  "theme_color": "#090a16",
+  "description": "A pak reader for games like VALORANT & Fortnite written in pure JavaScript",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
